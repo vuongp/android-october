@@ -1,6 +1,6 @@
 # Android October update examples
 
-This project will not be updated and provides examples of new updates in Android. This example has been used for...
+This project will not be updated and provides examples of new updates in Android. This example has been used for a local meeting based in Amsterdam. As a developer you are very welcome to join us!
 
 ## Updates October 25th 2016
 
