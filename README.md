@@ -67,6 +67,11 @@ A new layout that looks like iOS. Using this layout now wouldn't be reccomended 
 Sources:
 * https://developer.android.com/training/constraint-layout/index.html
 
+### App shortcuts
+App shortcuts basically enables users to longclick on an app and use shortcuts to specific parts of an app. You can even use it for linking to your website. There are basically 2 different kinds of shortcuts. Dynamic and static in the MainActivity class I covered a simple example of using a dynamic link.
+
+* https://developer.android.com/preview/shortcuts.html
+
 ### Android 7.x updates
 
 7.1

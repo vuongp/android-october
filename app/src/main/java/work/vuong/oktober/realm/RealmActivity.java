@@ -93,7 +93,7 @@ public class RealmActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        realm.close();
+        if (realm != null) realm.close();
     }
 
     private void setupAdapter() {
