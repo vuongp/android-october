@@ -76,7 +76,7 @@ App shortcuts basically enables users to longclick on an app and use shortcuts t
 
 7.1
 
-* App shortcuts
+* App shortcuts (Example)
 * Circular app icons
 * Image keyboard support
 * https://android-developers.blogspot.nl/2016/10/android-71-developer-preview.html
