@@ -1,7 +1,6 @@
 package work.vuong.oktober.realm;
 
 import android.os.Bundle;
-import android.support.v4.text.TextUtilsCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -12,14 +11,11 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import java.util.Date;
-import java.util.List;
 
 import io.realm.Credentials;
 import io.realm.ObjectServerError;
 import io.realm.Realm;
-import io.realm.RealmList;
 import io.realm.RealmObject;
-import io.realm.RealmRecyclerViewAdapter;
 import io.realm.RealmResults;
 import io.realm.SyncConfiguration;
 import io.realm.User;
