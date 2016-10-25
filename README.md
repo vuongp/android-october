@@ -94,7 +94,7 @@ Sources:
     * Annotation processing
     * Java 8 syntax
     * AAPT is quitting :(
-* APK browser
+* APK browser (Example apk in project root)
 * Layout inspector
 * PSD file support
 * Code samples browser

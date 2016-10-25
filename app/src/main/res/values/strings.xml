@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Oktober</string>
+    <string name="super_secret_key">You shall never find this</string>
 </resources>
