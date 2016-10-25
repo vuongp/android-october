@@ -125,4 +125,5 @@ App shortcuts basically enables users to longclick on an app and use shortcuts t
 * https://developer.android.com/studio/releases/index.html#Revisions
 * https://developers.google.com/android/guides/releases#october_2016_-_v98
 * https://github.com/Yarikx/reductor
-* https://developer.android.com/topic/libraries/support-library/revisions.html
+* https://developer.android.com/topic/libraries/support-library/revisions.htmlde
+* https://developer.android.com/preview/api-overview.html
